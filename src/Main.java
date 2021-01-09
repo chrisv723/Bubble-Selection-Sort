@@ -1,10 +1,24 @@
 import java.math.BigDecimal;
 import java.util.Random;
 
-//Christopher Valerio
+//  Christopher Valerio
 
+/**
+ * 
+ * Class called Main which handles the sorting algorithms execution
+ * 
+ * @author Christopher Valerio
+ */
 public class Main {
 	
+
+	/**
+	 * 
+	 * Main method which creates an unsorted array of random integer values and sorts the array using both
+	 * Selection and Bubble Sort. Displays the array after sorting and the total execution time for each sorting algorithm
+	 * 
+	 * @param args - String array holding command line arguments at time of programs execution
+	 */
 	public static void main(String[] args) {
 		
 		Sort test = new Sort();
