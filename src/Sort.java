@@ -9,7 +9,7 @@
  */
 public class Sort {
 
-	/**
+	/** 
 	 * Implements selection sort algorithm on a given unsorted array of integers.
 	 * 
 	 * Selection Sort repeatedly loops through the given unsorted array, each loop iteration finds the smallest number
